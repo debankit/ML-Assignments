@@ -1,0 +1,5 @@
+To determine the optimal k for the given dataset, I think we have to run the code multiple times. 
+Lets say, we start with k = 2. After we cluster the data, we can find the loss function (lets say MSE) or the sum of square distance from each point of a cluster to the centre of the cluster. The centre was the centroid point considering which the cluster was created.
+Then we can increase k to 3 and run the code again. We have to find the MSE or square distance in each case.
+If, the MSE doesnt change much after a change in the value of k, we can consider that this k is optimal.
+This can be done if we plot the loss function with respect to the k values. We can observe the change in such case.
