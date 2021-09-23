@@ -1,0 +1,26 @@
+Used variable initialization:
+w = 0 matrix
+b = 0
+learning rate = 0.001
+Number of epochs = 20
+
+
+For epoch 1 w and b  [-1.9  0.3 -3.3 -1.2] 0
+For epoch 2 w and b  [-3.8  0.6 -6.6 -2.4] 0
+For epoch 3 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 4 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 5 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 6 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 7 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 8 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 9 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 10 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 11 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 12 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 13 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 14 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 15 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 16 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 17 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 18 w and b  [ 1.3  4.1 -5.2 -2.2] 1
+For epoch 19 w and b  [ 1.3  4.1 -5.2 -2.2] 1
